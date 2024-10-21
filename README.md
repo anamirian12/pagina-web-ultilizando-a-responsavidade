@@ -1,0 +1,1 @@
+# pagina-web-ultilizando-a-responsavidade
